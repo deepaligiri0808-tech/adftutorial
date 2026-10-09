@@ -1,0 +1,15 @@
+{
+	"name": "dipaliADFTutorialDataFactory",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "02d2813c-3c53-4bce-b570-b9cc979c5170",
+		"tenantId": "90880054-c639-42b9-975c-c9fb83d07828"
+	}
+}
